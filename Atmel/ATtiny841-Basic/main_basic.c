@@ -3,9 +3,6 @@
  *
  * Created: 2/15/2015 5:50:42 AM
  *  Author: Alan Uomoto
- 
- THIS IS A TESTING PROGRAM FOR A 6-Volt Melles Griot Shutter 04UTS258.
- 63.5 CA, 6 ohm coil resistance, 6 volt rated, 4A peak pulse 
 
 FUSES
 Reading the fuses:
